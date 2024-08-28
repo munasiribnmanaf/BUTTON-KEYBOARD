@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(243, 250, 250);
+}
+#main{
+    margin-left: 310px;
+    margin-top: 200px;
+  
+    margin-right: 43px;
+    
+    
+
+}
+button{
+    width: 50px;
+    height: 55px;
+    border-radius: 12px;
+      box-shadow: 1px 1px 2px ;
+     
+      
+
+}
+.r{
+    height: 55px;
+    width: 47px;
+    font-size: 12px;
+}
+.a,.b,.c,.d,.e,.f{
+    height: 60px;
+    width: 100%;
+
+}
+.s{
+    width: 70px;
+}
+.t{
+    width: 70px;
+}
+.ce{
+    width: 85px;
+}
+.sh{
+    width: 112px;
+}
+.bs{
+    width: 226px;
+}
+.del{
+    width: 58px;
+}
